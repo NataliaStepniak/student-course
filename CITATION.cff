@@ -1,0 +1,7 @@
+cff-version: 1.0
+message: "If you use this repo, please cite it as below."
+authors: Czurylo, M., Padulano, V. E. and de Geus, F.
+title: "ROOT course for students"
+version: 4.0
+date-released: 2024-06-11
+url: "https://github.com/root-project/student-course.git"
